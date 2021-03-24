@@ -1,0 +1,30 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+trello.com	TRUE	/	FALSE	1999999999	mab	76863
+trello.com	TRUE	/	FALSE	1999999999	gdpr-cookie-consent	accepted
+trello.com	TRUE	/	FALSE	1999999999	dsc	451dfddec6ee3d2997e8e538289fa58ed8a0f241825ac037b09bc84558b607bb
+trello.com	TRUE	/	FALSE	1999999999	ajs_anonymous_id	%2228844883-2931-13f8-0d12-7ad02b4d6a8c%22
+.apple.com	TRUE	/	FALSE	1999999999	geo	VN
+.google.com	TRUE	/	FALSE	1999999999	NID	211=UWuHU8GYke_741v8d4NkTok6SBCgVr1V8scYLK6TnWkdtOrIAVxW84kP_AytAd6M8WvHgKEJbhUW6Bz-uuN6KYVfGYtSM-AIRqOri1CBGQB4lUOB2OMf8Pv7jniYX8Xi9rqxtXEt8ftRCckabjY6nROZmjrvl5DtyWvb8Cy83AI
+.atlassian.com	TRUE	/	FALSE	1999999999	ajs_anonymous_id	%221ee3027c-7cd9-beda-cba4-8148d8074d6c%22
+.atlassian.com	TRUE	/	FALSE	1999999999	atlCohort	{"bucketAll":{"bucketedAtUTC":"2021-03-15T03:14:16.557Z","version":"2","index":97,"bucketId":0}}
+.hubspot.net	TRUE	/	FALSE	1999999999	__cfduid	d34a35597e46bb80cb71b01d2586173b11615778625
+cdn2.hubspot.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+.hubspot.com	TRUE	/	FALSE	1999999999	__cfduid	d14b2a11109c210dc50ad4b3bd6d264431615778678
+no-cache.hubspot.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.bootstrapcdn.com	TRUE	/	FALSE	1999999999	__cfduid	d21cfe761c9a63f9de06750c2bac6c63f1615778794
+stackpath.bootstrapcdn.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.atlassian.com	TRUE	/	FALSE	1999999999	bxp_gateway_request_id	d7848573-12b8-f5db-25d0-a9efcc3c5adb
+www.atlassian.com	TRUE	/	FALSE	1999999999	wac_user_detected	0
+px.ads.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&e31820cc-30be-409a-80e6-50b04134a101"
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=OGST04:s=O:r=O:g=2276:u=1:i=1615791859:t=1615878259:v=1:sig=AQE2edZT5S63OTPISTa_r3uwhWC0E8Y5"
+px.ads.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+trello.com	TRUE	/	FALSE	1999999999	lang	en-US
+help.trello.com	TRUE	/	FALSE	1999999999	PLAY_SESSION	e679e8a5e4093de8f78768421b0bff81cd2cd86c-siteId=5480ea0ce4b004e3442e8544&hs.session.id=pqlmojVAJxbooOF1I82OltF9HociaUg3uv5Q9rFWTvjAx8ewX9qauo0tWnlCqDJD&hs.session.exp=1615879360964"
+trello.com	TRUE	/	FALSE	1999999999	bxp_gateway_request_id	ebee79c4-804f-e6ef-5172-4a3dddd34d61
+trello.com	TRUE	/	FALSE	1999999999	atlCohort	{"bucketAll":{"bucketedAtUTC":"2021-03-15T07:22:44.398Z","version":"2","index":44,"bucketId":0}}
+.blog.trello.com	TRUE	/	FALSE	1999999999	__cfduid	de0ce8e3d437a497f174e38e3a239474d1615795289
+.blog.trello.com	TRUE	/	FALSE	1999999999	__cfruid	27a1ad81b9dd4091340769258b9f9be343ff2fe7-1615795290
+blog.trello.com	TRUE	/	FALSE	1999999999	SameSite	None
+

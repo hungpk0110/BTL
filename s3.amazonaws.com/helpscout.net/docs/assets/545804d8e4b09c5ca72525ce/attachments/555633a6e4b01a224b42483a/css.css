@@ -1,0 +1,40 @@
+.picture_caption {
+    text-align: center;
+    color: #8C8C8C ;
+}
+
+#docsSearch {
+  position: relative;
+  padding-bottom: 4em;
+}
+
+#docsSearch.mobile {
+  padding-bottom: 1.5em;
+}
+
+.gsg-banner {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    text-align: center;
+    background-color: #F6E34C;
+}
+
+#docsSearch.mobile .gsg-banner {
+  display:none;
+}
+
+#fullArticle .article-banner {  
+  padding: 12px;
+  background-color: #F6E34C;
+  margin-bottom: 20px;
+  width: 93%;
+  font-size:  14px;
+}
+
+#fullArticle.mobile .article-banner {
+  display:none;
+}

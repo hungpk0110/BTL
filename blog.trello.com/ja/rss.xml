@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Trello Blog</title>
+    <link>https://blog.trello.com/ja</link>
+    <description>Trello 公式ブログです。Trello のユースケース、生産性に関するヒント、チーム コラボレーションのためのベスト プラクティス、エキスパートからのリモート ワークに関するアドバイスをご覧ください。</description>
+    <language>ja</language>
+    <pubDate>Wed, 03 Mar 2021 03:00:00 GMT</pubDate>
+    <dc:date>2021-03-03T03:00:00Z</dc:date>
+    <dc:language>ja</dc:language>
+    <item>
+      <title>チーム プロジェクト管理ガイド【完全版】</title>
+      <link>https://blog.trello.com/ja/ultimate-guide-team-project-management</link>
+      <description>&lt;p&gt;美味しいブランチを用意すると考えてみましょう。自家製のキッシュ、ベーコン、パンケーキ、パフェ、ミモザはどうでしょうか。十分ですね。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;美味しいブランチを用意すると考えてみましょう。自家製のキッシュ、ベーコン、パンケーキ、パフェ、ミモザはどうでしょうか。十分ですね。&lt;/p&gt;  
+&lt;img src="https://track.hubspot.com/__ptq.gif?a=2249672&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblog.trello.com%2Fja%2Fultimate-guide-team-project-management&amp;amp;bu=https%253A%252F%252Fblog.trello.com%252Fja&amp;amp;bvt=rss" alt="" width="1" height="1" style="min-height:1px!important;width:1px!important;border-width:0!important;margin-top:0!important;margin-bottom:0!important;margin-right:0!important;margin-left:0!important;padding-top:0!important;padding-bottom:0!important;padding-right:0!important;padding-left:0!important; "&gt;</content:encoded>
+      <category>生産性向上</category>
+      <pubDate>Wed, 03 Mar 2021 03:00:00 GMT</pubDate>
+      <author>kekuehl@gmail.com (Kat Boogaard)</author>
+      <guid>https://blog.trello.com/ja/ultimate-guide-team-project-management</guid>
+      <dc:date>2021-03-03T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>ボードの枠を超える、まったく新しい Trello の紹介</title>
+      <link>https://blog.trello.com/ja/a-whole-new-trello</link>
+      <description>&lt;p&gt;Atlassian は、生産性とプロジェクト管理のための最もユビキタスなビジュアル フレームワークを 10 年間にわたって拡大した後、Trello のボード、リスト、カードの各種モデルを進化させ、コンテンツにコンテキストをもたらしてチームがプロジェクトやツールにまたがるサイロを解体するのをサポートします。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Atlassian は、生産性とプロジェクト管理のための最もユビキタスなビジュアル フレームワークを 10 年間にわたって拡大した後、Trello のボード、リスト、カードの各種モデルを進化させ、コンテンツにコンテキストをもたらしてチームがプロジェクトやツールにまたがるサイロを解体するのをサポートします。&lt;/p&gt;  
+&lt;img src="https://track.hubspot.com/__ptq.gif?a=2249672&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblog.trello.com%2Fja%2Fa-whole-new-trello&amp;amp;bu=https%253A%252F%252Fblog.trello.com%252Fja&amp;amp;bvt=rss" alt="" width="1" height="1" style="min-height:1px!important;width:1px!important;border-width:0!important;margin-top:0!important;margin-bottom:0!important;margin-right:0!important;margin-left:0!important;padding-top:0!important;padding-bottom:0!important;padding-right:0!important;padding-left:0!important; "&gt;</content:encoded>
+      <category>製品</category>
+      <pubDate>Tue, 16 Feb 2021 17:00:00 GMT</pubDate>
+      <author>mhp@trello.com (Michael Pryor)</author>
+      <guid>https://blog.trello.com/ja/a-whole-new-trello</guid>
+      <dc:date>2021-02-16T17:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>不要なタブを閉じましょう: Trello カード内でお気に入りのアプリを使用する方法</title>
+      <link>https://blog.trello.com/ja/trello-card-types-embed-links</link>
+      <description>&lt;p&gt;アトラシアンでは、Trello とチームが利用しているアプリ (&lt;span&gt;Google Drive&lt;/span&gt;、&lt;span&gt;Dropbox&lt;/span&gt;、Youtube、&lt;span&gt;Figma&lt;/span&gt;、&lt;span&gt;Github&lt;/span&gt;、Box、&lt;span&gt;Jira&lt;/span&gt;、&lt;span&gt;Confluence&lt;/span&gt;、および &lt;span&gt;Bitbucke&lt;/span&gt;&lt;span&gt;t&lt;/span&gt; など) の両方からデータを収集する Trello カードをよりスマートにすることに取り組んでいます。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;アトラシアンでは、Trello とチームが利用しているアプリ (&lt;span&gt;Google Drive&lt;/span&gt;、&lt;span&gt;Dropbox&lt;/span&gt;、Youtube、&lt;span&gt;Figma&lt;/span&gt;、&lt;span&gt;Github&lt;/span&gt;、Box、&lt;span&gt;Jira&lt;/span&gt;、&lt;span&gt;Confluence&lt;/span&gt;、および &lt;span&gt;Bitbucke&lt;/span&gt;&lt;span&gt;t&lt;/span&gt; など) の両方からデータを収集する Trello カードをよりスマートにすることに取り組んでいます。&lt;/p&gt;  
+&lt;img src="https://track.hubspot.com/__ptq.gif?a=2249672&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblog.trello.com%2Fja%2Ftrello-card-types-embed-links&amp;amp;bu=https%253A%252F%252Fblog.trello.com%252Fja&amp;amp;bvt=rss" alt="" width="1" height="1" style="min-height:1px!important;width:1px!important;border-width:0!important;margin-top:0!important;margin-bottom:0!important;margin-right:0!important;margin-left:0!important;padding-top:0!important;padding-bottom:0!important;padding-right:0!important;padding-left:0!important; "&gt;</content:encoded>
+      <category>製品</category>
+      <pubDate>Tue, 16 Feb 2021 16:56:00 GMT</pubDate>
+      <author>jordan@trello.com (Jordan Mirchev)</author>
+      <guid>https://blog.trello.com/ja/trello-card-types-embed-links</guid>
+      <dc:date>2021-02-16T16:56:00Z</dc:date>
+    </item>
+    <item>
+      <title>全体像を完璧に把握できるタイムライン ビューが登場</title>
+      <link>https://blog.trello.com/ja/trello-timeline-view</link>
+      <description>&lt;p&gt;Trelloの タイムライン ビューを使用して、チームの計画のギアを上げるときが来ました。タイムライン ビューを使用すると、チームが明確に視覚的なレイアウトによってプロジェクト、目標、スプリントを把握して管理できるようになります (頂上からの眺めが好きでない人などいるでしょうか?)。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Trelloの タイムライン ビューを使用して、チームの計画のギアを上げるときが来ました。タイムライン ビューを使用すると、チームが明確に視覚的なレイアウトによってプロジェクト、目標、スプリントを把握して管理できるようになります (頂上からの眺めが好きでない人などいるでしょうか?)。&lt;/p&gt;  
+&lt;img src="https://track.hubspot.com/__ptq.gif?a=2249672&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblog.trello.com%2Fja%2Ftrello-timeline-view&amp;amp;bu=https%253A%252F%252Fblog.trello.com%252Fja&amp;amp;bvt=rss" alt="" width="1" height="1" style="min-height:1px!important;width:1px!important;border-width:0!important;margin-top:0!important;margin-bottom:0!important;margin-right:0!important;margin-left:0!important;padding-top:0!important;padding-bottom:0!important;padding-right:0!important;padding-left:0!important; "&gt;</content:encoded>
+      <category>製品</category>
+      <pubDate>Tue, 16 Feb 2021 16:55:00 GMT</pubDate>
+      <author>brian@trello.com (Brian Cervino)</author>
+      <guid>https://blog.trello.com/ja/trello-timeline-view</guid>
+      <dc:date>2021-02-16T16:55:00Z</dc:date>
+    </item>
+    <item>
+      <title>Trello マップ ビューを使用して仕事がある場所を整理する方法</title>
+      <link>https://blog.trello.com/ja/trello-map-view</link>
+      <description>&lt;p&gt;&lt;img src="https://blog.trello.com/hs-fs/hubfs/maps-pup.png?width=2400&amp;amp;name=maps-pup.png" alt="Trello の Maps Power-Up" width="2400" style="width: 2400px;"&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;img src="https://blog.trello.com/hs-fs/hubfs/maps-pup.png?width=2400&amp;amp;name=maps-pup.png" alt="Trello の Maps Power-Up" width="2400" style="width: 2400px;"&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;img src="https://blog.trello.com/hs-fs/hubfs/maps-pup.png?width=2400&amp;amp;name=maps-pup.png" alt="Trello の Maps Power-Up" width="2400" style="width: 2400px;"&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;img src="https://blog.trello.com/hs-fs/hubfs/maps-pup.png?width=2400&amp;amp;name=maps-pup.png" alt="Trello の Maps Power-Up" width="2400" style="width: 2400px;"&gt;&lt;/p&gt; 
+&lt;p&gt;私たちの多くにとって、プロジェクトにはタスクや期限以外のものが含まれ、場所も関係しています。現場での作業の調整、将来の住宅購入者に示すための不動産の整理、または顧客の住所の追跡など、どのような業務であれ、場所は、整理と計画のプロセスに不可欠な要素です。&lt;/p&gt; 
+&lt;p&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://blog.trello.com/hs-fs/hubfs/maps-pup.png?width=2400&amp;amp;name=maps-pup.png" alt="Trello の Maps Power-Up" width="2400" style="width: 2400px;"&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;img src="https://blog.trello.com/hs-fs/hubfs/maps-pup.png?width=2400&amp;amp;name=maps-pup.png" alt="Trello の Maps Power-Up" width="2400" style="width: 2400px;"&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;img src="https://blog.trello.com/hs-fs/hubfs/maps-pup.png?width=2400&amp;amp;name=maps-pup.png" alt="Trello の Maps Power-Up" width="2400" style="width: 2400px;"&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;img src="https://blog.trello.com/hs-fs/hubfs/maps-pup.png?width=2400&amp;amp;name=maps-pup.png" alt="Trello の Maps Power-Up" width="2400" style="width: 2400px;"&gt;&lt;/p&gt; 
+&lt;p&gt;私たちの多くにとって、プロジェクトにはタスクや期限以外のものが含まれ、場所も関係しています。現場での作業の調整、将来の住宅購入者に示すための不動産の整理、または顧客の住所の追跡など、どのような業務であれ、場所は、整理と計画のプロセスに不可欠な要素です。&lt;/p&gt; 
+&lt;p&gt;&lt;/p&gt;  
+&lt;img src="https://track.hubspot.com/__ptq.gif?a=2249672&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblog.trello.com%2Fja%2Ftrello-map-view&amp;amp;bu=https%253A%252F%252Fblog.trello.com%252Fja&amp;amp;bvt=rss" alt="" width="1" height="1" style="min-height:1px!important;width:1px!important;border-width:0!important;margin-top:0!important;margin-bottom:0!important;margin-right:0!important;margin-left:0!important;padding-top:0!important;padding-bottom:0!important;padding-right:0!important;padding-left:0!important; "&gt;</content:encoded>
+      <category>製品</category>
+      <pubDate>Tue, 16 Feb 2021 16:52:00 GMT</pubDate>
+      <author>alexia@trello.com (Alexia)</author>
+      <guid>https://blog.trello.com/ja/trello-map-view</guid>
+      <dc:date>2021-02-16T16:52:00Z</dc:date>
+    </item>
+    <item>
+      <title>Trello の新しいダッシュボード ビューでプロジェクト レポートが簡単に</title>
+      <link>https://blog.trello.com/ja/trello-dashboard-view</link>
+      <description>&lt;p&gt;Trello の新しいダッシュボード ビュー (Trello Business Class および Enterprise のお客様向けのプロジェクト レポート ツール) を使用して、チームの作業状況を視覚化して伝えることが可能になったことをお知らせします。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Trello の新しいダッシュボード ビュー (Trello Business Class および Enterprise のお客様向けのプロジェクト レポート ツール) を使用して、チームの作業状況を視覚化して伝えることが可能になったことをお知らせします。&lt;/p&gt;  
+&lt;img src="https://track.hubspot.com/__ptq.gif?a=2249672&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblog.trello.com%2Fja%2Ftrello-dashboard-view&amp;amp;bu=https%253A%252F%252Fblog.trello.com%252Fja&amp;amp;bvt=rss" alt="" width="1" height="1" style="min-height:1px!important;width:1px!important;border-width:0!important;margin-top:0!important;margin-bottom:0!important;margin-right:0!important;margin-left:0!important;padding-top:0!important;padding-bottom:0!important;padding-right:0!important;padding-left:0!important; "&gt;</content:encoded>
+      <category>製品</category>
+      <pubDate>Tue, 16 Feb 2021 16:52:00 GMT</pubDate>
+      <author>jordan@trello.com (Jordan Mirchev)</author>
+      <guid>https://blog.trello.com/ja/trello-dashboard-view</guid>
+      <dc:date>2021-02-16T16:52:00Z</dc:date>
+    </item>
+    <item>
+      <title>スプレッドシートの愛好者はご注目: Trello のテーブル ビューの登場です</title>
+      <link>https://blog.trello.com/ja/trello-table-view</link>
+      <description>&lt;p&gt;&lt;img src="https://blog.trello.com/hs-fs/hubfs/Trello%20Team%20Table%20View.png?width=2400&amp;amp;name=Trello%20Team%20Table%20View.png" alt="Trello チームテーブル表示ベータプログラム" width="2400" style="width: 2400px;"&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span style="background-color: transparent; font-family: 'Charlie Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;"&gt;「チーム全体の複数の Trello ボードにあるカードすべてを一度に確認したい」、「たくさんのリストを含むボードをもっとシンプルな方法で視覚化できたら」こんなふうに思ったことはありませんか? そんな要望に応える、Trello の全く新しいテーブル ビューの登場です。&lt;/span&gt;&lt;/p&gt; 
+&lt;div&gt; 
+ &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;/div&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://blog.trello.com/hs-fs/hubfs/Trello%20Team%20Table%20View.png?width=2400&amp;amp;name=Trello%20Team%20Table%20View.png" alt="Trello チームテーブル表示ベータプログラム" width="2400" style="width: 2400px;"&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span style="background-color: transparent; font-family: 'Charlie Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;"&gt;「チーム全体の複数の Trello ボードにあるカードすべてを一度に確認したい」、「たくさんのリストを含むボードをもっとシンプルな方法で視覚化できたら」こんなふうに思ったことはありませんか? そんな要望に応える、Trello の全く新しいテーブル ビューの登場です。&lt;/span&gt;&lt;/p&gt; 
+&lt;div&gt; 
+ &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;/div&gt;  
+&lt;img src="https://track.hubspot.com/__ptq.gif?a=2249672&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblog.trello.com%2Fja%2Ftrello-table-view&amp;amp;bu=https%253A%252F%252Fblog.trello.com%252Fja&amp;amp;bvt=rss" alt="" width="1" height="1" style="min-height:1px!important;width:1px!important;border-width:0!important;margin-top:0!important;margin-bottom:0!important;margin-right:0!important;margin-left:0!important;padding-top:0!important;padding-bottom:0!important;padding-right:0!important;padding-left:0!important; "&gt;</content:encoded>
+      <category>製品</category>
+      <pubDate>Tue, 16 Feb 2021 10:00:00 GMT</pubDate>
+      <author>brian@trello.com (Brian Cervino)</author>
+      <guid>https://blog.trello.com/ja/trello-table-view</guid>
+      <dc:date>2021-02-16T10:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Trello カレンダー ビューですべてのプロジェクト、タスク、締め切りを計画</title>
+      <link>https://blog.trello.com/ja/trello-calendar-view</link>
+      <description>&lt;p&gt;&lt;img src="https://blog.trello.com/hs-fs/hubfs/how_to_add_calendar_to_your_trello_board.png?width=1200&amp;amp;name=how_to_add_calendar_to_your_trello_board.png" alt="how_to_add_calendar_to_your_trello_board" width="1200" style="width: 1200px;"&gt;&lt;/p&gt; 
+&lt;p&gt;期限や締め切りを重視していても、数日、数週間先の状況についてそれらのカードを確認する最適な方法が必要ですか?大丈夫です、Trello にはそのためのビューがあります。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://blog.trello.com/hs-fs/hubfs/how_to_add_calendar_to_your_trello_board.png?width=1200&amp;amp;name=how_to_add_calendar_to_your_trello_board.png" alt="how_to_add_calendar_to_your_trello_board" width="1200" style="width: 1200px;"&gt;&lt;/p&gt; 
+&lt;p&gt;期限や締め切りを重視していても、数日、数週間先の状況についてそれらのカードを確認する最適な方法が必要ですか?大丈夫です、Trello にはそのためのビューがあります。&lt;/p&gt;  
+&lt;img src="https://track.hubspot.com/__ptq.gif?a=2249672&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblog.trello.com%2Fja%2Ftrello-calendar-view&amp;amp;bu=https%253A%252F%252Fblog.trello.com%252Fja&amp;amp;bvt=rss" alt="" width="1" height="1" style="min-height:1px!important;width:1px!important;border-width:0!important;margin-top:0!important;margin-bottom:0!important;margin-right:0!important;margin-left:0!important;padding-top:0!important;padding-bottom:0!important;padding-right:0!important;padding-left:0!important; "&gt;</content:encoded>
+      <category>製品</category>
+      <pubDate>Tue, 16 Feb 2021 09:00:00 GMT</pubDate>
+      <author>brian@trello.com (Brian Cervino)</author>
+      <guid>https://blog.trello.com/ja/trello-calendar-view</guid>
+      <dc:date>2021-02-16T09:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>OKR に関するすべて: 設定し、達成し、Trello で追跡する方法</title>
+      <link>https://blog.trello.com/ja/okrs-set-achieve-track-trello</link>
+      <description>&lt;p&gt;&lt;img class="aligncenter wp-image-4414 size-large" src="https://blog.trello.com/hs-fs/hubfs/Imported_Blog_Media/okr_buffer-1024x512.jpg?width=1024&amp;amp;height=512&amp;amp;name=okr_buffer-1024x512.jpg" alt="Trello を使った OKR の追跡方法。" width="1024" height="512"&gt;&lt;/p&gt; 
+&lt;p&gt;それで、あなたは積極的に成功をつかみたいのですね?&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img class="aligncenter wp-image-4414 size-large" src="https://blog.trello.com/hs-fs/hubfs/Imported_Blog_Media/okr_buffer-1024x512.jpg?width=1024&amp;amp;height=512&amp;amp;name=okr_buffer-1024x512.jpg" alt="Trello を使った OKR の追跡方法。" width="1024" height="512"&gt;&lt;/p&gt; 
+&lt;p&gt;それで、あなたは積極的に成功をつかみたいのですね?&lt;/p&gt;  
+&lt;img src="https://track.hubspot.com/__ptq.gif?a=2249672&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblog.trello.com%2Fja%2Fokrs-set-achieve-track-trello&amp;amp;bu=https%253A%252F%252Fblog.trello.com%252Fja&amp;amp;bvt=rss" alt="" width="1" height="1" style="min-height:1px!important;width:1px!important;border-width:0!important;margin-top:0!important;margin-bottom:0!important;margin-right:0!important;margin-left:0!important;padding-top:0!important;padding-bottom:0!important;padding-right:0!important;padding-left:0!important; "&gt;</content:encoded>
+      <category>ユースケース</category>
+      <pubDate>Wed, 27 Jan 2021 03:00:00 GMT</pubDate>
+      <author>kevan@buffer.com (Kevan Lee)</author>
+      <guid>https://blog.trello.com/ja/okrs-set-achieve-track-trello</guid>
+      <dc:date>2021-01-27T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>働き方を変える Trello の機能 5 選</title>
+      <link>https://blog.trello.com/ja/trello-features-change-the-way-you-work</link>
+      <description>&lt;div&gt;
+ &lt;img src="https://blog.trello.com/hubfs/5%20Trello%20Features%20That%20Will%20Change%20The%20Way%20You%20Work-3.png" alt=""&gt;
+&lt;/div&gt; 
+&lt;p&gt;&lt;a href="https://trello.com/ja/remote-work-guide"&gt;テレワーク環境とプロセス&lt;/a&gt;を採用する人、チーム、組織が増えるにつれ、生産性を維持し、コラボレーションを促進する優れたデジタル ツールのニーズも高まっています。分散した環境では、Herman Miller の極上の椅子でクルリと回って、四半期ごとのプレゼンテーションを同僚に頼んで手伝ってもらったり、オフィスの周りを見渡して誰が何に取り組んでいるかを確認したりできません。&lt;/p&gt;</description>
+      <content:encoded>&lt;div&gt;
+ &lt;img src="https://blog.trello.com/hubfs/5%20Trello%20Features%20That%20Will%20Change%20The%20Way%20You%20Work-3.png" alt=""&gt;
+&lt;/div&gt; 
+&lt;p&gt;&lt;a href="https://trello.com/ja/remote-work-guide"&gt;テレワーク環境とプロセス&lt;/a&gt;を採用する人、チーム、組織が増えるにつれ、生産性を維持し、コラボレーションを促進する優れたデジタル ツールのニーズも高まっています。分散した環境では、Herman Miller の極上の椅子でクルリと回って、四半期ごとのプレゼンテーションを同僚に頼んで手伝ってもらったり、オフィスの周りを見渡して誰が何に取り組んでいるかを確認したりできません。&lt;/p&gt;  
+&lt;img src="https://track.hubspot.com/__ptq.gif?a=2249672&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblog.trello.com%2Fja%2Ftrello-features-change-the-way-you-work&amp;amp;bu=https%253A%252F%252Fblog.trello.com%252Fja&amp;amp;bvt=rss" alt="" width="1" height="1" style="min-height:1px!important;width:1px!important;border-width:0!important;margin-top:0!important;margin-bottom:0!important;margin-right:0!important;margin-left:0!important;padding-top:0!important;padding-bottom:0!important;padding-right:0!important;padding-left:0!important; "&gt;</content:encoded>
+      <category>製品</category>
+      <pubDate>Tue, 12 Jan 2021 03:00:00 GMT</pubDate>
+      <author>janet.mesh@aimtal.com (Janet Mesh)</author>
+      <guid>https://blog.trello.com/ja/trello-features-change-the-way-you-work</guid>
+      <dc:date>2021-01-12T03:00:00Z</dc:date>
+    </item>
+  </channel>
+</rss>
